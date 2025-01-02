@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>
+  <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="225"/>
 </div>
 Hi there 👋 
 I'm Sabin Dahal!
